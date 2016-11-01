@@ -1,7 +1,7 @@
 # upload a new project to github
 ================================
 
-    cd drawArm/
+     cd drawArm/
      git init
      git add .
      git commit -m "My First commit"
