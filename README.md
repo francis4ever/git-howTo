@@ -10,7 +10,7 @@
  
 
  
- ## Notes: if project has files exists. pull first then push.
+## Notes: if project has files exists. pull first then push.
  
      git pull https://github.com/francis4ever/drawArm
      git push origin master
